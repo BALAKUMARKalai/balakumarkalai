@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<<!--
+
 I am BALAKUMAR Kalai
 
 - 🌱 I’m currently a CS major student at ENSEA at Cergy and the University of Cergy.
