@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <<!--
-I am Kalai
+I am BALAKUMAR Kalai
 
 - 🌱 I’m currently a CS major student at ENSEA at Cergy and the University of Cergy.
 - 👯 I’m looking to collaborate on different subjets related to Deep Learning, Optimization,...
