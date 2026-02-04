@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there 👋<br><br>I am BALAKUMAR Kalai<br><br>- 🌱 I’m currently a CS major student at ENSEA at Cergy and the University of Cergy.<br>- 👯 I’m looking to collaborate on different subjets related to Deep Learning, Optimization,...<br>- 📫 How to reach me:<br>  by mail : kalaivaran93@gmail.com<br>- ⚡ Fun fact: I love adding noise to generate data
+ Hi there 👋<br><br>I am BALAKUMAR Kalai<br><br>- 🌱 I’m currently a CS major student at ENSEA at Cergy and the University of Cergy.<br>- 👯 I’m looking to collaborate on different subjets related to Deep Learning, Optimization,...<br>- 📫 How to reach me:<br>  by mail : kalaivaran93@gmail.com<br>-
 
 
 ## 🌐 Socials:
